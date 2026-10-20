@@ -1,0 +1,1 @@
+import{j as i}from"./index-7QT1EAsa.js";function s({name:t,title:o,verb:r="Registado por"}){const e=t?`${t}${o?` · ${o}`:""}`:"Não identificado";return i.jsxs("p",{"data-loc":"client/src/components/quality/OperatorAttribution.tsx:5",className:"mt-1 text-xs text-muted-foreground","data-testid":"operator-attribution",children:[r,": ",e]})}export{s as O};
